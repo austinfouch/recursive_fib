@@ -1,0 +1,4 @@
+Austin Fouch | CMPS 361 Software Design | Lab2 | 02/02/2017
+
+First 10 Fibonacci numbers:
+1 1 2 3 5 8 13 21 34 55 
